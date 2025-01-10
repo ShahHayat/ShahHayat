@@ -3,7 +3,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a Senior Software Engineer and an ex-Data Engineer who has spent 2+ years in building backend applications and almost 1 year in handling end-to-end ETL operations. 🤖 \
+💡 &nbsp;I'm a Senior Software Engineer and an ex-Data Engineer who has spent 3+ years in building backend applications and almost 1 year in handling end-to-end ETL operations. 🤖 \
 🎓 &nbsp;I'm an alumnus of [Jadavpur University](http://www.jaduniv.edu.in/). A proud Jadavpurian.
 
 
