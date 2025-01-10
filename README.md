@@ -21,6 +21,7 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellijidea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Linux-Debian-informational?style=flat&logo=debian&logoColor=white&color=2bbc8a)
 
 ## 📫 &nbsp; How to reach me:
 <a href="mailto:smhayat225@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
