@@ -7,6 +7,8 @@
 🎓 &nbsp;I'm an alumnus of [Jadavpur University](http://www.jaduniv.edu.in/). A proud Jadavpurian.
 
 
+
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
@@ -26,6 +28,8 @@
 ![](https://img.shields.io/badge/Version%20Control-GitHub-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Linux-Debian-informational?style=flat&logo=debian&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellijidea&logoColor=white&color=2bbc8a)
+
+
 
 ## 📫 &nbsp; How to reach me:
 <a href="mailto:smhayat225@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
