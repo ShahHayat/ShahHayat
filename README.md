@@ -8,6 +8,7 @@
 
 
 ## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/:badgeContent?logo=java&logoColor=white&label=Java&labelColor=blue&color=white)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
