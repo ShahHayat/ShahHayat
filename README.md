@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/ORM-Entity%20Framework%20Core-informational?style=flat&logo=entityframeworkcore&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-React.js-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-SQLServer-informational?style=flat&logo=sqlserver&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-SQL%20Server-informational?style=flat&logo=sqlserver&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/NoSQL-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
